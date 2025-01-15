@@ -15,4 +15,4 @@ of the mechanisms of padding tokens, potentially informing future model design a
 
 ## Main Figure
 
-![Main Figure](main_figure.png)
+![Main Figure](flux_pad.jpeg)
